@@ -1,0 +1,4 @@
+#Fri Dec 07 18:45:28 ICT 2018
+base.0=D\:\\Game\\Unity Game\\Belajar Unity\\bejar new\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
